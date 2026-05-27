@@ -31,7 +31,7 @@ You can use the workers.dev subdomain to access without needing your own domain.
 ```js
 // workers.dev/index.js
 // replace to your target site domain
-const targetDomain = 'example.com';
+const targetDomain = 'scienceos.ai';
 ```
 
 Code: [workers.dev/index.js](workers.dev/index.js)
